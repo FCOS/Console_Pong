@@ -1,3 +1,6 @@
+//Fergal O'Shea
+//4-12-16
+
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
